@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AL-ARKAWAZI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Kaggle-Expert | Data Science | AI Trainee at Mystro GmbH | Computer Communications Engineering | Master communications systems and computer networks </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-jalil88&label=Profile%20views&color=0e75b6&style=flat" alt="ali-jalil88" /> </p>
 
