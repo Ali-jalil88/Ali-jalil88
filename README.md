@@ -74,5 +74,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
+### Watch my GitHub Snake Game
+![Snake animation](https://github.com/Ali-jalil88/snake-game-dashboard/blob/output/github-contribution-grid-snake.svg)
 
 ###
